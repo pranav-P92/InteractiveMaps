@@ -1,0 +1,11 @@
+#display {
+
+  width: 300px;
+  margin-right: 20px;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  position: absolute;
+  top:150px;
+  left: 30px;
+}
